@@ -1,0 +1,35 @@
+:root {
+  --black-whitewhite: rgba(255, 255, 255, 1);
+  --button-LG-font-family: "Poppins-Medium", Helvetica;
+  --button-LG-font-size: 16px;
+  --button-LG-font-style: normal;
+  --button-LG-font-weight: 500;
+  --button-LG-letter-spacing: 0px;
+  --button-LG-line-height: normal;
+  --button-SM-font-family: "Poppins-Medium", Helvetica;
+  --button-SM-font-size: 14px;
+  --button-SM-font-style: normal;
+  --button-SM-font-weight: 500;
+  --button-SM-letter-spacing: 0px;
+  --button-SM-line-height: 24px;
+  --grayscale-600: rgba(76, 75, 99, 1);
+  --grayscale-900: rgba(18, 17, 39, 1);
+  --grayscale-900-opacity-12: rgba(18, 17, 39, 0.12);
+  --grayscale-900-opacity-32: rgba(18, 17, 39, 0.32);
+  --grayscale-900-opacity-4: rgba(18, 17, 39, 0.04);
+  --grayscale-900-opacity56: rgba(18, 17, 39, 0.56);
+  --indigo-100: rgba(222, 224, 250, 1);
+  --indigo-200: rgba(180, 183, 240, 1);
+  --indigo-300: rgba(135, 141, 232, 1);
+  --indigo-400: rgba(96, 104, 219, 1);
+  --indigo-50: rgba(242, 243, 255, 1);
+  --indigo-500: rgba(68, 75, 211, 1);
+  --indigo-600: rgba(63, 67, 200, 1);
+  --indigo-700: rgba(54, 56, 188, 1);
+  --task: -40px 100px 70px 0px rgba(121, 121, 121, 0.05), 40px 0px 70px 0px rgba(121, 121, 121, 0.05);
+  --white-opacity-12: rgba(255, 255, 255, 0.12);
+  --white-opacity-20: rgba(255, 255, 255, 0.2);
+  --white-opacity-32: rgba(255, 255, 255, 0.32);
+  --white-opacity-4: rgba(255, 255, 255, 0.04);
+  --white-opacity-8: rgba(255, 255, 255, 0.08);
+}
